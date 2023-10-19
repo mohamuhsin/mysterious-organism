@@ -57,3 +57,10 @@ For example:
 
 ex1 and ex2 only have the 3rd element in common ('T') and therefore, have 25% (1/4) of their DNA in common. The resulting message would read something along the lines of: specimen #1 and specimen #2 have 25% DNA in common.
 
+
+**6.** P. aequor have a likelier chance of survival if their DNA is made up of at least 60% 'C' or 'G' bases.
+
+In the returned object of pAequorFactory(), add another method .willLikelySurvive().
+
+.willLikelySurvive() returns true if the object’s .dna array contains at least 60% 'C' or 'G' bases. Otherwise, .willLikelySurvive() returns false.
+

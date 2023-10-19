@@ -55,4 +55,5 @@ For example:
 > 
 > ex2 = ['C', 'A', 'T', 'T']
 
+ex1 and ex2 only have the 3rd element in common ('T') and therefore, have 25% (1/4) of their DNA in common. The resulting message would read something along the lines of: specimen #1 and specimen #2 have 25% DNA in common.
 

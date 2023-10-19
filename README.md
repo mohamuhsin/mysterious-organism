@@ -13,3 +13,5 @@ As you progress through the steps, use the terminal and console.log() statements
 # Prerequisites
 
 **1.** In order to complete this project, you should have completed the Introduction to JavaScript (through: Objects).
+
+# Project Requirements

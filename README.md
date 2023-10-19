@@ -11,3 +11,5 @@ This project is slightly different than others you have encountered thus far. In
 As you progress through the steps, use the terminal and console.log() statements to check the output of your loops and functions.
 
 # Prerequisites
+
+**1.** In order to complete this project, you should have completed the Introduction to JavaScript (through: Objects).

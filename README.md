@@ -44,14 +44,15 @@ To simulate a mutation, in pAequorFactory()‘s returned object, add the method 
 For example, if the randomly selected base is the 1st base and it is 'A', the base must be changed to 'T', 'C', or 'G'. But it cannot be 'A' again.
 
 
-Your research team wants to be able to compare the DNA sequences of different P. aequor. You’ll have to add a new method (.compareDNA()) to the returned object of the factory function.
+**5.** Your research team wants to be able to compare the DNA sequences of different P. aequor. You’ll have to add a new method (.compareDNA()) to the returned object of the factory function.
 
 .compareDNA() has one parameter, another pAequor object.
 
 The behavior of .compareDNA() is to compare the current pAequor‘s .dna with the passed in pAequor‘s .dna and compute how many bases are identical and in the same locations. .compareDNA() does not return anything, but prints a message that states the percentage of DNA the two objects have in common — use the .specimenNum to identify which pAequor objects are being compared.
 
 For example:
->ex1 = ['A', 'C', 'T', 'G']
->ex2 = ['C', 'A', 'T', 'T']
+> ex1 = ['A', 'C', 'T', 'G']
+> 
+> ex2 = ['C', 'A', 'T', 'T']
 
->
+

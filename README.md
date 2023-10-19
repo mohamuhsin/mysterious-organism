@@ -17,7 +17,7 @@ As you progress through the steps, use the terminal and console.log() statements
 # Project Requirements
 
 
-**2** Look over the starter code. There are two helper functions: returnRandBase() and mockUpStrand().
+**2.** Look over the starter code. There are two helper functions: returnRandBase() and mockUpStrand().
 
 DNA is comprised of four bases (Adenine, Thymine, Cytosine, and Guanine). When returnRandBase() is called, it will randomly select a base and return the base ('A','T','C', or 'G').
 

@@ -67,4 +67,4 @@ In the returned object of pAequorFactory(), add another method .willLikelySurviv
 
 **7.** With the factory function set up, your team requests that you create 30 instances of pAequor that can survive in their natural environment. Store these instances in an array for your team to study later.
 
-**7.** With the factory funct
+**7.** With the factory fu
